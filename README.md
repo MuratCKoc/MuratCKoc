@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuratCKoc
-- 👀 I’m interested in supply chain, gaming, hospitality, blockchain.
-- 🌱 I’m currently learning data analytics, will become data engineer.
+- 👀 I’m interested in Data and Business Analytics.
+- 🌱 I’m currently learning marketing data analytics.
 - 💞️ I’m looking to collaborate on open source video games, web crawling and etl projects.
 - 📫 How to reach me e-mail: muratckoc@gmail.com , telegram: @MCagriKoc
 
